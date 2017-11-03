@@ -1,5 +1,13 @@
 package com.mycompany._a1;
 
+/**
+ Semester: A171 
+ * Course: STIW3054 
+ * Group: A 
+ * Task: Assignment 1 
+ * Matric: 232922
+ * Name: #NurulSyafawani
+ */
 
 import java.io.BufferedReader;
 import java.io.File;
